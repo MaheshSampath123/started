@@ -11,6 +11,7 @@ namespace sample11
         static void Main(string[] args)
         {
             Console.WriteLine(  "Herro");
+            Console.WriteLine("hii");
         }
     }
 }
